@@ -10,3 +10,5 @@ fs.writeFile('nodes_architecture.txt',node_architect_info,function(err){
     }
     console.log('wirte data successfully');
 })
+
+console.log('other stuff ');
