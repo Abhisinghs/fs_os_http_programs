@@ -1,0 +1,11 @@
+{
+  "name": "random_package",
+  "version": "1.0.0",
+  "description": "This is a description of the package",
+  "main": "index.js",
+  "scripts": {
+    "test":" "
+  },
+  "author": "Abhishek Singh",
+  "license": "ISC"
+}
